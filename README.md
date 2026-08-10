@@ -65,7 +65,8 @@ npx @ruvnet/ruview@0.3.1 brain search --query "calibration"
 npx @ruvnet/ruview@0.3.1 brain verify --repo .
 
 # Check claims, replay the deterministic proof, or expose the MCP server
-npx @ruvnet/ruview@0.3.1 claim-check --file REPORT.md
+npx @ruvnet/ruview@0.3.1
+ claim-check --file REPORT.md
 npx @ruvnet/ruview@0.3.1 verify
 npx @ruvnet/ruview@0.3.1 mcp start
 ```
