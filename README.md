@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## **See through walls with WiFi** ##
+# **See through walls with WiFi** ##
 
 **Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dark, with no cameras or wearables. Just physics.
 
